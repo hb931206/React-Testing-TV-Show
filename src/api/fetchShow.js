@@ -13,3 +13,5 @@ export const fetchShow = () => {
       return res;
     });
 };
+
+export default fetchShow;
